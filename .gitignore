@@ -38,3 +38,17 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+/.agents/
+/.claude/
+/tests/
+/Dockerfile
+/.dockerignore
+/taskfile.yaml
+/scenarios.yaml
+/skills-lock.json
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
+/LICENSE
+/README.md
